@@ -94,12 +94,3 @@ menu:
 2. Check Barang
 3. Kembali
 4. Hapus Barang
-
-silahkan pilih:
-```
-
----
-
-## 👤 Author
-
-**Rafie** — Semester 6, belajar Python 🐍
